@@ -25,7 +25,8 @@ TMDB API → ADF → Blob Storage → Azure SQL → Power BI
 
 ## 📊 Dashboard
 
-(Add your Power BI screenshot here)
+<img width="920" height="537" alt="image" src="https://github.com/user-attachments/assets/9c373956-d7e0-4429-8c20-f312847f6743" />
+
 
 ## 🚀 Future Improvements
 
